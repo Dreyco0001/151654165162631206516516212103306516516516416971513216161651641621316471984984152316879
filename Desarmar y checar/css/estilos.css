@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/*
+Estos son mis primeros estilos
+del curso de Programacion Web en Duoc
+Estamos muy emocionados.
+*/
+body{
+    background-color: #00ff2a;
+    width: 800px;
+}
+
+nav{
+    background-color: #88c7c7;
+    width: 800px;
+    height: 30px;
+}
+
+/* .menu{
+    width: 800px;
+    height: 200px;
+    background-color: #bd6a6a;
+}
+ */
+
+ .menu{
+    width: 800px;
+    height: 200px;
+    background-color: #00ff2a;
+ }
+
+.cuerpo{
+    width: 800px;
+    height: 600px;
+    background-color: #4e4e09;
+}
